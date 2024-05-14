@@ -31,6 +31,8 @@ Notebooks: Jupyter notebooks detailing the data analysis process.
 Models: Saved machine learning models for future use.
 Visualizations: Generated plots and visualizations.
 
+Data Source: The dataset was obtained from Kaggle, a platform for data science competitions and datasets. You can find the dataset here: https://www.kaggle.com/datasets/kanchana1990/apple-music-dataset-10000-tracks-uncovered
+
 Feel free to explore the notebooks and data to delve deeper into the analysis and findings!
 
 
